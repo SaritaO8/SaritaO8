@@ -44,7 +44,7 @@ Seguir creciendo como desarrolladora de software, aportar valor en equipos de te
 ## 📫 Contacto
 
 * GitHub: SaritaO8
-* LinkedIn: TuLinkedIn (opcional)
+* LinkedIn: https://www.linkedin.com/in/sara-carlier-9503a5398/
 
 ---
 
