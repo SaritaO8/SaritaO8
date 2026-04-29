@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hola, soy Sara Brigete Carlier Méndez💜
 
-<!--
-**SaritaO8/SaritaO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Desarrollo de Software** con enfoque en la creación de soluciones funcionales, aprendizaje continuo y buenas prácticas de desarrollo.
+🚀 Me interesa construir proyectos útiles, escalables y bien estructurados.
+📚 Actualmente fortaleciendo conocimientos en **C#**, lógica de programación y desarrollo backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** Python, JavaScript, C#, HTML
+* **Bases de datos:** MySQL
+* **Control de versiones:** Git, GitHub
+* **Metodologías:** Scrum
+* **En aprendizaje:** Arquitectura de software, APIs y buenas prácticas
+
+---
+
+## 📌 Áreas de Interés
+
+* Desarrollo Backend
+* Desarrollo Web
+* Bases de Datos
+* Automatización de procesos
+* Trabajo colaborativo en equipos ágiles
+
+---
+
+## 🌱 Actualmente trabajando en
+
+* Proyectos académicos y personales
+* Mejora de habilidades en C#
+* Resolución de problemas con código limpio
+* Fortalecimiento de lógica y estructuras de datos
+
+---
+
+## 🎯 Objetivo Profesional
+
+Seguir creciendo como desarrolladora de software, aportar valor en equipos de tecnología y adquirir experiencia en proyectos reales.
+
+---
+
+## 📫 Contacto
+
+* GitHub: SaritaO8
+* LinkedIn: TuLinkedIn (opcional)
+
+---
+
