@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-* **Lenguajes:** Python, JavaScript, C#, HTML
+* **Lenguajes:** Python, JavaScript, C#, HTML y CSS
 * **Bases de datos:** MySQL
 * **Control de versiones:** Git, GitHub
 * **Metodologías:** Scrum
