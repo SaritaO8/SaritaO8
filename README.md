@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sara Brigete Carlier Méndez💜
 
-💻 Estudiante de **Desarrollo de Software** con enfoque en la creación de soluciones funcionales, aprendizaje continuo y buenas prácticas de desarrollo.
+💻 **Desarrolladora de Software** con enfoque en la creación de soluciones funcionales, aprendizaje continuo y buenas prácticas de desarrollo.
 🚀 Me interesa construir proyectos útiles, escalables y bien estructurados.
 📚 Actualmente fortaleciendo conocimientos en **C#**, lógica de programación y desarrollo backend.
 
